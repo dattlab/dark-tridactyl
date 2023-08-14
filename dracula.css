@@ -152,7 +152,7 @@
   background: var(--tridactyl-bg) !important;
   border: unset !important;
   border: 1px var(--purple) solid !important;
-  font-size: 12pt !important;
+  font-size: 8pt !important;
   /*font-weight: 200 !important;*/
   padding: 0.3ex !important;
 }
