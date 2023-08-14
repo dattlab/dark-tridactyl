@@ -154,7 +154,7 @@
   border: 1px var(--purple) solid !important;
   font-size: 12pt !important;
   /*font-weight: 200 !important;*/
-  padding: 0.8ex !important;
+  padding: 0.3ex !important;
 }
 
 #completions .focused {
