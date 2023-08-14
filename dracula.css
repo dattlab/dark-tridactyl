@@ -39,7 +39,7 @@
 
 #command-line-holder {
   order: 1;
-  border: 1px solid var(--cyan);
+  border: 2px solid var(--cyan);
   background: var(--tridactyl-bg);
 }
 
